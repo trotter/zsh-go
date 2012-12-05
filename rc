@@ -1,0 +1,2 @@
+# Export the go env variables
+eval $(go env)
