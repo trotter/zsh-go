@@ -1,2 +1,3 @@
 # Export the go env variables
 eval $(go env)
+source "$GOROOT/misc/zsh/go"
